@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+L2_output*/
+L2提交*/
+*.bundle
